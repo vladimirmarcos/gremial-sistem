@@ -246,5 +246,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+#database
+*.db
+#word docs 
+*.docx
+/output
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
